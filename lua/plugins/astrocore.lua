@@ -25,7 +25,7 @@ return {
     -- vim options can be configured here
     options = {
       opt = { -- vim.opt.<key>
-        guifont = "SauceCodePro Nerd Font Mono:h11",
+        guifont = "Profont IIx Nerd Font Mono:h12",
         relativenumber = true, -- sets vim.opt.relativenumber
         number = true, -- sets vim.opt.number
         spell = false, -- sets vim.opt.spell
