@@ -12,6 +12,5 @@ return {
   { import = "astrocommunity.colorscheme.monokai-pro-nvim", enabled = true },
   --  { import = "astrocommunity.media.neocord-nvim", enabled = true },
   { import = "astrocommunity.diagnostics.trouble-nvim" },
-  -- { import = "astrocommunity.colorscheme.catppuccin" },
-  -- { import = "astrocommunity.completion.copilot-lua-cmp" },
+  { import = "astrocommunity.recipes.neovide" },
 }
