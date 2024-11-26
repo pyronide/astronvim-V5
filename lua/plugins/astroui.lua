@@ -10,7 +10,7 @@ return {
   opts = {
     -- change colorscheme
     colorscheme = "monokai-pro-spectrum",
-    guifont = "SauceCodePro Nerd Font Mono",
+    guifont = "ProFont IIx Nerd Font Mono",
     -- AstroUI allows you to easily modify highlight groups easily for any and all colorschemes
     -- Icons can be configured throughout the interface
     icons = {
