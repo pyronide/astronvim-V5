@@ -6,11 +6,9 @@
 return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
-  -- import/override with your plugins folder
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.editing-support.rainbow-delimiters-nvim", enabled = true },
   { import = "astrocommunity.colorscheme.monokai-pro-nvim", enabled = true },
-  --  { import = "astrocommunity.media.neocord-nvim", enabled = true },
   { import = "astrocommunity.diagnostics.trouble-nvim" },
   { import = "astrocommunity.recipes.neovide" },
 }
