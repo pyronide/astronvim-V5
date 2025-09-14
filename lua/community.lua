@@ -7,6 +7,7 @@ return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.rust" },
+  { import = "astrocommunity.pack.xml" },
   { import = "astrocommunity.editing-support.rainbow-delimiters-nvim", enabled = true },
   { import = "astrocommunity.colorscheme.monokai-pro-nvim", enabled = true },
   { import = "astrocommunity.diagnostics.trouble-nvim" },
